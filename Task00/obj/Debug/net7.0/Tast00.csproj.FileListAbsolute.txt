@@ -1,0 +1,15 @@
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/bin/Debug/net7.0/Tast00
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/bin/Debug/net7.0/Tast00.deps.json
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/bin/Debug/net7.0/Tast00.runtimeconfig.json
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/bin/Debug/net7.0/Tast00.dll
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/bin/Debug/net7.0/Tast00.pdb
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.csproj.AssemblyReference.cache
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.AssemblyInfoInputs.cache
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.AssemblyInfo.cs
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.csproj.CoreCompileInputs.cache
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.dll
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/refint/Tast00.dll
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.pdb
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/Tast00.genruntimeconfig.cache
+/Users/ivanryzov/Desktop/Введение в программирование/Lesson2/Tast00/obj/Debug/net7.0/ref/Tast00.dll
